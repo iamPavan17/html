@@ -1102,8 +1102,7 @@ th {
   min-height: 450px;
 }
 .banner-area .overlay-bg {
-  filter: blur(71px);
-  background: rgb(7 4 31 / 22%);
+  background: rgb(255 255 255 / 41%);
 }
 .banner-area h1 {
   font-size: 50px;
