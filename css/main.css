@@ -672,7 +672,7 @@ th {
   transition: all 0.3s ease 0s;
 }
 .primary-btn:hover {
-  background: #cea06c;
+  background: #5faf4f;
   color: #fff;
 }
 .overlay {
@@ -1441,7 +1441,7 @@ th {
   color: #fff;
 }
 .callto-area .overlay-bg {
-  background: rgba(5, 10, 52, 0.7);
+  background: rgb(123 123 128 / 47%);
 }
 .testimonial-area {
   background: #f7f7f7;
@@ -1659,7 +1659,7 @@ th {
 }
 .blog-home-banner .primary-btn {
   color: #fff;
-  background: #cea06c;
+  background: #3c9440;
 }
 .blog-home-banner .primary-btn:hover {
   color: #cea06c;
